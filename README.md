@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **bunnibiscotti/bunnibiscotti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<!--
+  - include LeetCode
+  - include CodeForces
+-->
+<br /><br /><br /><br /><br /><br /><br />
+<p align="right">
+  <em>...it's been a long time running.</em>
+</p>
