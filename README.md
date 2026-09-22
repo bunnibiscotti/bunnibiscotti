@@ -16,6 +16,14 @@ Here are some ideas to get you started:
   - include LeetCode
   - include CodeForces
 -->
+
+<p align="center">
+  <a href="https://www.leetcode.com/sushicookies" style="text-decoration: none;">
+    <img width="22" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg">
+    LeetCode
+  </a>
+</p>
+
 <br /><br /><br /><br /><br /><br /><br />
 <p align="right">
   <em>...it's been a long time running.</em>
